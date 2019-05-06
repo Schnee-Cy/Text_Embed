@@ -1,1 +1,4 @@
 *.cpp linguist-language=Python
+*.pyc linguist-language=Python
+*.pyd linguist-language=Python
+*.dll linguist-language=Python
